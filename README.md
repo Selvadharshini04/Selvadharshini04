@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selvadharshini</h1>
-<h3 align="center">A passionate Software Engineer and Web Development enthusiast.</h3>
+<h3 align="center">A passionate Software Developer and Web Development enthusiast.</h3>
 
 🔭 I’m currently pursuing B.E. (Electronics and Communication Engineering) at Velalar College of Engineering and Technology, Erode.<br><br>🌱 I’m currently learning Backend Technologies and DSA using java.<br><br>👯 I’m currently working on front-end development projects and data visualization (PowerBI) projects.<br><br>🤝 I’m looking for help with Full stack development<br><br>💬 Ask me about web development and data analytics.<br><br>📫 How to reach me selvadharshini12b@gmail.com
 

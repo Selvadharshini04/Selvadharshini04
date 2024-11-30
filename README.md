@@ -14,13 +14,14 @@
 ![](https://github-profile-trophy.vercel.app/?username=Selvadharshini04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 # 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Selvadharshini04&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Selvadharshini04&theme=prussian&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Selvadharshini04&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=selvadharshini04&label=Profile%20views&color=0e75b6&style=flat" alt="selvadharshini04" /> </p>
+![](https://github-readme-stats.vercel.app/api?username=Selvadharshini04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Selvadharshini04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Selvadharshini04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=selvadharshini04&label=Profile%20views&color=0e75b6&style=flat" alt="selvadharshini04" /> </p>
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

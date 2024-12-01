@@ -22,6 +22,3 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selvadharshini04&label=Profile%20views&color=0e75b6&style=flat" alt="selvadharshini04" /> </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
